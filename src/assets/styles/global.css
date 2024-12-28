@@ -1,0 +1,21 @@
+/* Fondo general */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF8E1; /* Blanco hueso */
+    font-family: "Roboto", sans-serif; /* Tipografía limpia */
+}
+
+/* Clases globales para títulos y textos */
+.view-title {
+    color: #F8BBD0; /* Rosa claro */
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.view-text {
+    color: #4A4A4A; /* Gris oscuro */
+    text-align: center;
+    font-size: 1.2rem;
+}
